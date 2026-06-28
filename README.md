@@ -1,40 +1,33 @@
 # Daniel Marí Estrada
+*Python Engineer | Product Builder*
 
-**Python Engineer | Data Analyst | Product Builder**
+🔗 **[danielmariestrada.xyz](https://danielmariestrada.xyz)**
 
-Creo en la dualidad fundamental del desarrollo de software: la tensión constante entre salir rápido al mercado resolviendo un problema real (el enfoque de vender primero, diseñar después) y la obsesión por el diseño meticuloso, la experiencia del usuario y la belleza de la infraestructura (diseñar primero, vender después). Mi objetivo es dominar este *Yin y Yang*: construir **productos enteros** que sean tanto joyas de la ingeniería a nivel de servidor como experiencias visualmente pulidas y atemporales.
-
----
-
-## 🏗️ Filosofía y Arquitectura
-
-Un buen producto no solo cumple una función; está estructurado con rigor y diseñado con intención.
-
-*   **Ingeniería (El Motor):** Especializado en **Python**. Mi base técnica se rige por la **Arquitectura Hexagonal**, **Clean Architecture** y **Domain-Driven Design (DDD)**. Mantener el dominio aislado y el código limpio no es un lujo estético, es el estándar para construir sistemas robustos y escalables.
-*   **Diseño (La Interfaz):** Fuerte influencia del **minimalismo suizo**, el skeuomorfismo sutil y los estándares corporativos premium. Utilizo proporciones matemáticas clásicas (como la Proporción Áurea), uso intencional del espacio negativo, y paletas de "falsos negros" y "falsos blancos" para crear interfaces de alto contraste y legibilidad absoluta.
-*   **Desarrollo Web (Stack HAMP):** HTMX + Alpine.js + Python + PostgreSQL. Retorno al renderizado del lado del servidor para mantener el cliente ligero, rápido y libre de complejidad innecesaria.
+Creo firmemente que *simple es mejor*. Mi enfoque es dominar la tensión entre la pragmática del mercado y la obsesión por el diseño meticuloso, construyendo "productos enteros": sistemas robustos que son, simultáneamente, piezas de ingeniería eficiente y experiencias visuales atemporales.
 
 ---
 
-## 🚀 Proyectos Destacados (El Producto Entero)
+## 🏗️ Ingeniería & Entorno
+Escribo código centrado en la mantenibilidad, rendimiento y estructura.
 
-### ⚙️ Caeiro
-El ecosistema bajo el cual desarrollo servicios de software y branding técnico. Es la materialización pura de mi filosofía: la intersección exacta entre el rigor de la arquitectura de software y el refinamiento del diseño minimalista suizo.
+*   **Motor:** **Python**. Mi herramienta principal para resolver problemas complejos de backend y análisis de datos.
+*   **Arquitectura:** Domain-Driven Design (DDD) y Clean Architecture. El dominio es sagrado y debe permanecer aislado.
+*   **Flujo:** 100% Terminal (Neovim, Tmux, Linux). Velocidad y fluidez, *ThePrimeagen style*.
 
-### 🥖 Letuch
-Ingeniería aplicada al mundo físico y comercial. Desarrollo de infraestructura técnica, optimización de bases de datos y automatización backend para escalar las operaciones de una panadería y restaurante artesanal.
+## 📐 Estética: La Geometría del Producto
+Más allá de la interfaz, el diseño debe responder a leyes universales. La belleza no es capricho, es matemática.
 
-### 🌿 Zenith-Hydro
-Sistema hidropónico vertical (NFT) basado en IoT. Una integración de hardware y software que utiliza sensores monitoreados mediante ESP32, alimentando un panel de control construido en **FastAPI** para la gestión de datos en tiempo real.
+*   **La Proporción Áurea (Phi):** Aplico la proporción 1.618 en mis layouts, tipografía y estructuras de datos visuales. Desde el espaciado de mis contenedores hasta la jerarquía de mis elementos, todo responde a esta espiral armónica para guiar el ojo del usuario de forma orgánica.
+*   **Minimalismo Suizo:** El uso deliberado del espacio negativo para eliminar el ruido. Menos elementos, más claridad.
+*   **Sistema Visual:** Paletas de "falsos negros" y "falsos blancos" que reducen la fatiga visual, logrando interfaces de alto contraste que se sienten premium, sólidas y estables.
+
+## 🧠 AFK (Away From Keyboard)
+La materialidad del mundo físico informa la lógica de mi código.
+
+*   **Identidad:** Materialista dialéctico zen. Observo las contradicciones del mundo para encontrar soluciones pragmáticas y fluidas.
+*   **Tatami:** Entrenamiento constante en MMA y BJJ. Disciplina física que exige presencia absoluta.
+*   **Simulación & Gestión:** *Stardew Valley* como modelo de optimización y gestión de sistemas cerrados.
+*   **Mundo Físico:** Cultivo hidropónico automatizado. Integración de hardware y software para generar vida y producto tangible.
 
 ---
-
-## 🔧 Stack Técnico y Herramientas
-
-*   **Lenguajes Core:** Python (Backend, Data Analysis, Scripting), SQL.
-*   **Web & APIs:** FastAPI, HTMX, Alpine.js.
-*   **Infraestructura & Datos:** PostgreSQL, Linux (Fedora/Nobara), flujos de trabajo en n8n, gestión de repositorios en GitLab. (Actualmente preparándome para la certificación AWS SAA-C03).
-*   **Entorno:** Terminal-first workflow, Neovim, Tmux.
-
----
-*"El buen diseño y la buena arquitectura son invisibles; solo dejan a la vista el valor del producto."*
+*"La simplicidad no es el fin, es el resultado del orden matemático."*
